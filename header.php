@@ -1,7 +1,5 @@
 <?php
-
 //header.php
-
 include('admin/database_connection.php');
 session_start();
 
