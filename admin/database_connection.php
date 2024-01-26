@@ -2,7 +2,7 @@
 
 //database_connection.php
 
-$connect = new PDO("mysql:host=localhost;dbname=attendance","root","");
+$connect = new PDO("mysql:host=localhost;dbname=smsalamanadbase","root","");
 
 $base_url = "http://localhost/tutorial/student-attendance-system-in-php-using-ajax/";
 
