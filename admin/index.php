@@ -2,7 +2,7 @@
 
 //index.php
 
-//include('header.php');
+include('header.php');
 
 ?>
 
