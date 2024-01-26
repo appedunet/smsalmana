@@ -1,11 +1,7 @@
 <?php
-
 //database_connection.php
-
 $connect = new PDO("mysql:host=localhost;dbname=smsalamanadbase","itadmin","tatawine1981Net");
-
 $base_url = "http://localhost/tutorial/student-attendance-system-in-php-using-ajax/";
-
 function get_total_records($connect, $table_name)
 {
 	$query = "SELECT * FROM $table_name";
