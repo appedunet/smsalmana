@@ -30,7 +30,7 @@ if(isset($_SESSION["teacher_id"]))
 <body>
 
 <div class="jumbotron text-center" style="margin-bottom:0">
-  <h1>Student Attendance System</h1>
+  <h1>متابعة الطلاب</h1>
 </div>
 
 
