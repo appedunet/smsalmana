@@ -15,10 +15,10 @@ if(isset($_SESSION["teacher_id"]))
 ?>
 
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="rtl">
 <head>
 
-  <title>Student Behavior System -AL MANA SCH </title>
+  <title>Student Tracking System -AL MANA SCH </title>
 
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
