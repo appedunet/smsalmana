@@ -10,9 +10,9 @@ if(!isset($_SESSION["teacher_id"]))
 
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" dir="rtl">
 <head>
-  <title>Student Attendance System in PHP using Ajax</title>
+  <title>Student Tracking System</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="css/bootstrap.min.css">
