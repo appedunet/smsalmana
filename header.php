@@ -7,7 +7,7 @@ if(!isset($_SESSION["teacher_id"]))
 {
   header('location:login.php');
 }
-
+header ('Content-Type: text/html; charset=UTF-8'); 
 ?>
 <!DOCTYPE html>
 <html lang="en" dir="rtl">
